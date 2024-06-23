@@ -311,7 +311,7 @@
 .reviewBanner .img{
     width:40%;
     border:1px solid var(--color-point-pink);
-    background-image: url('./images/img_newfam_review.jpg');
+    background-image: url('../images/img_newfam_review.jpg');
     background-size:cover;
     background-position:center right;
     flex-shrink: 2;
@@ -510,16 +510,16 @@
     padding-left:1.5em;
 }
 .contentWrap.ywFam .benefit li .img.b01{
-    background-image:url('./images/img_benefit_01.png');
+    background-image:url('../images/img_benefit_01.png');
 }
 .contentWrap.ywFam .benefit li .img.b02{
-    background-image:url('./images/img_benefit_02.png');
+    background-image:url('../images/img_benefit_02.png');
 }
 .contentWrap.ywFam .benefit li .img.b03{
-    background-image:url('./images/img_benefit_03.png');
+    background-image:url('../images/img_benefit_03.png');
 }
 .contentWrap.ywFam .benefit li .img.b04{
-    background-image:url('./images/img_benefit_04.png');
+    background-image:url('../images/img_benefit_04.png');
 }
 .contentWrap.ywFam .benefit li .img p,.contentWrap.ywFam .benefit li .img p span{
     color:white;
@@ -687,19 +687,19 @@
 .language select {
     padding:5px 10px 5px 30px;
     font-size:0.8em;
-    background-image:url('./images/icon_nation_america.png');
+    background-image:url('../images/icon_nation_america.png');
     background-size:30px 30px;
     background-repeat:no-repeat;
 }
 .language select option {
-    background-image:url('./images/icon_nation_america.png');
+    background-image:url('../images/icon_nation_america.png');
     background-size:30px 30px;
     background-repeat:no-repeat;
 }
 
 .imNew.off {display:none;}
 .imNew .top{
-    background-image:url('./images/img_imnew_top.jpg');
+    background-image:url('../images/img_imnew_top.jpg');
     background-size:cover;
     padding:1.0em 1.5em;
     color:white;
@@ -707,7 +707,7 @@
     height:18em;
 }
 .imNew .top{
-    background-image:url('./images/img_imnew_top.jpg');
+    background-image:url('../images/img_imnew_top.jpg');
     background-size:cover;
     background-position: center center;
     padding:1.0em 1.5em;
@@ -954,7 +954,7 @@
     width:205px;
     height:205px;
     color:white;
-    background-image: url('./images/img_history_01.png');
+    background-image: url('../images/img_history_01.png');
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -962,13 +962,13 @@
     margin-right:10px;
 }
 .church .historyWrap .history .card.c2{
-    background-image: url('./images/img_history_02.png');
+    background-image: url('../images/img_history_02.png');
 }
 .church .historyWrap .history .card.c3{
-    background-image: url('./images/img_history_03.png');
+    background-image: url('../images/img_history_03.png');
 }
 .church .historyWrap .history .card.c4{
-    background-image: url('./images/img_history_04.png');
+    background-image: url('../images/img_history_04.png');
 }
 .church .historyWrap .history .year{
     width:175px;
@@ -984,7 +984,7 @@
 .church .historyWrap .history .year .line{
     width:100%;
     height:8px;
-    background-image:url('./images/img_history_line.png');
+    background-image:url('../images/img_history_line.png');
     background-repeat: no-repeat;
 }
 
@@ -1458,7 +1458,7 @@ html {
     z-index:90;
     transition: opacity 0.5s;
     opacity:0;
-    background:url('./images/img_bg_gradient_white.png');
+    background:url('../images/img_bg_gradient_white.png');
     background-repeat:repeat-x;
     background-position:top left
     /* background: linear-gradient(to top, rgba(255,255,255,1.0), rgba(255,255,255,0.8), rgba(255,255,255,0.6), rgba(255,255,255,0.0)); */
@@ -1761,7 +1761,7 @@ img.writing.gls {
     padding-right:1.5em;
 }
 .cultural_class .exp .h3{
-    background-image:url('./images/icon_leaf_01.svg');
+    background-image:url('../images/icon_leaf_01.svg');
     background-repeat: no-repeat;
     background-position: -10px 5px;
     padding-left:45px;
