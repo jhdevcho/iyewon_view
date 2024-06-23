@@ -13,7 +13,7 @@
     z-index:0;
     top:0;
     left:0;
-    background-image:url('/images/img_sprout.jpg');
+    background-image:url('./images/img_sprout.jpg');
     background-size:cover;
     background-position: center center;
 } */
@@ -303,7 +303,7 @@
 .scene01 .scene01Bg .bgImg.step01{
     width: 48vh;
     height: 45vh;
-    background-image:url('/images/bg_main_01_s.jpg');
+    background-image:url('./images/bg_main_01_s.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -314,7 +314,7 @@
 .scene01 .scene01Bg .bgImg.step02{
     width: 100%;
     height: 100vh;
-    background-image:url('/images/bg_main_01.jpg');
+    background-image:url('./images/bg_main_01.jpg');
     background-size: cover;
     background-position:center center;
     background-repeat: no-repeat;
@@ -373,7 +373,7 @@
 .scene02 .bird .svgArea{ 
     width: 887px;
     height: 705px;
-    background-image: url('/images/img_sky.jpg'); 
+    background-image: url('./images/img_sky.jpg'); 
     background-size: 120% auto;
     background-position: 0 0;
     background-repeat: no-repeat;   
@@ -652,7 +652,7 @@
 .scene04 .scene04Bg .bgImg{
     width: 100%;
     height: 100vh;
-    background-image:url('/images/img_scene04.jpg');
+    background-image:url('./images/img_scene04.jpg');
     background-size: cover;
     background-position:center center;
     background-repeat: no-repeat;    
@@ -951,7 +951,7 @@
 .scene07.step1 .scene07Bg .bgImg{
     width: 100%;
     height: 100vh;
-    background-image:url('/images/pc07-1.jpg');
+    background-image:url('./images/pc07-1.jpg');
     background-size: cover;
     background-position:center center;
     background-repeat: no-repeat;
@@ -969,7 +969,7 @@
 .scene07.step2 .scene07Bg .bgImg{
     width: 48vh;
     height: 45vh;
-    background-image:url('/images/pc07-1.jpg');
+    background-image:url('./images/pc07-1.jpg');
     background-size: cover;
     background-position:center center;
     background-repeat: no-repeat;
