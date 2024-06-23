@@ -86,39 +86,39 @@ a, a:focus{
 /* 공통 아이콘, 이미지 등 */
 
 .logo_yewon{
-    content: url("/images/logo_yewon.svg");
+    content: url("./images/logo_yewon.svg");
     width: 38px !important;
 }
 .logo_yewon_letter{
-    content: url("/images/logo_yewon_letter.svg");
+    content: url("./images/logo_yewon_letter.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_youtube{
-    content: url("/images/icon_youtube_small.svg");
+    content: url("./images/icon_youtube_small.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_burger{
-    content: url("/images/icon_burger.svg");
+    content: url("./images/icon_burger.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_X{
-    content: url("/images/icon_X.svg");
+    content: url("./images/icon_X.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_arrow_long_white{
-    content: url("/images/icon_arrow_long_white.svg");
+    content: url("./images/icon_arrow_long_white.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -126,7 +126,7 @@ a, a:focus{
     vertical-align: middle;
 }
 .icon_arrow_long_black{
-    content: url("/images/icon_arrow_long_black.svg");
+    content: url("./images/icon_arrow_long_black.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -134,14 +134,14 @@ a, a:focus{
     vertical-align: middle;
 }
 .icon_arrow_long_green{
-    content: url("/images/icon_arrow_long_green.svg");
+    content: url("./images/icon_arrow_long_green.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_arrow_short_green{
-    content: url("/images/icon_arrow_short_green.svg");
+    content: url("./images/icon_arrow_short_green.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -151,42 +151,42 @@ a, a:focus{
     transform: rotate(180deg);
 }
 .icon_arrow_bottom{
-    content: url("/images/icon_arrow_bottom.svg");
+    content: url("./images/icon_arrow_bottom.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_arrow_bottom_line{
-    content: url("/images/icon_arrow_bottom_line.svg");
+    content: url("./images/icon_arrow_bottom_line.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_arrow_fill{
-    content: url("/images/icon_arrow_fill.svg");
+    content: url("./images/icon_arrow_fill.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_gt_black{
-    content: url("/images/icon_gt_black.svg");
+    content: url("./images/icon_gt_black.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_gt_gray{
-    content: url("/images/icon_gt_gray.svg");
+    content: url("./images/icon_gt_gray.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_lt_black{
-    content: url("/images/icon_gt_black.svg");
+    content: url("./images/icon_gt_black.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -194,7 +194,7 @@ a, a:focus{
     transform: rotate(180deg);
 }
 .icon_lt_gray{
-    content: url("/images/icon_gt_gray.svg");
+    content: url("./images/icon_gt_gray.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -202,21 +202,21 @@ a, a:focus{
     transform: rotate(180deg);
 }
 .icon_dbquote{
-    content: url("/images/icon_dbquote.svg");
+    content: url("./images/icon_dbquote.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_youtube_gray{
-    content: url("/images/icon_youtube_gray.svg");
+    content: url("./images/icon_youtube_gray.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_youtube_black{
-    content: url("/images/icon_youtube_black.svg");
+    content: url("./images/icon_youtube_black.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -224,7 +224,7 @@ a, a:focus{
     margin-right:8px;
 }
 .icon_calendar{
-    content: url("/images/icon_calendar.svg");
+    content: url("./images/icon_calendar.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -233,21 +233,21 @@ a, a:focus{
     padding-right:5px;
 }
 .icon_play{
-    content: url("/images/icon_play.svg");
+    content: url("./images/icon_play.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_clip{
-    content: url("/images/icon_clip.svg");
+    content: url("./images/icon_clip.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
     width: max-content !important;
 }
 .icon_search{
-    content: url("/images/icon_search.svg");
+    content: url("./images/icon_search.svg");
     width: intrinsic !important; /* Safari/WebKit uses a non-standard name */
     width: -moz-max-content !important; /* Firefox/Gecko */
     width: -webkit-max-content !important; /* Chrome */
@@ -641,10 +641,10 @@ header.dark .hCenter .menu .submenu a{
     color: var(--white-color);
 }
 header.dark .hCenter .f_yewon .logo_yewon_letter{
-    content: url("/images/logo_yewon_letter_white.svg");
+    content: url("./images/logo_yewon_letter_white.svg");
 }
 header.dark .btn_menu .icon_burger{
-    content: url("/images/icon_burger_white.svg");
+    content: url("./images/icon_burger_white.svg");
 }
 
 header .hCenter .back {display:none;}
@@ -751,7 +751,7 @@ footer .footer_cont .ft_logo{
     padding: 0 30px 30px 0;
 }
 footer .footer_cont .ft_logo .logo_yewon_letter{
-    content:url("/images/logo_yewon_letter_white.svg");
+    content:url("./images/logo_yewon_letter_white.svg");
 }
 footer .footer_cont .text{
     width:100%;
