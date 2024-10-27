@@ -498,15 +498,15 @@ a, a:focus{
     padding: 10px 0;
     height: 46px;
 }
-.menuLayer .mFamLinks .mFamWrap a:nth-child(3) img{
+.menuLayer .mFamLinks .mFamWrap a.yewonbiz img{
     width:123px;
     height:auto;
 }
-.menuLayer .mFamLinks .mFamWrap a:nth-child(4) img{
+.menuLayer .mFamLinks .mFamWrap a.skyarthall img{
     width:80px;
     height:auto;
 }
-.menuLayer .mFamLinks .mFamWrap a:nth-child(5) img{
+.menuLayer .mFamLinks .mFamWrap a.happyall img{
     width:85px;
     height:auto;
 }
