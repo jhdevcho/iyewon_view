@@ -23,93 +23,93 @@
 
 /* em단위 폰트 지정 */
 .h1 {
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 3.0em;
     margin-bottom: 0;
 }
 .h2{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 2.5em;
     margin-bottom: 0;
 }
 .h2-1{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 2.2em;
     margin-bottom: 0;
 }
 .h3{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.5em;
     line-height: 2.0em;
     margin-bottom: 0;
 }
 .h4{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .h4-m{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .h5{
-    font-family:"PretendardR";
+    font-family:"Pretendard";
     font-size: 0.9em;
     line-height: 1.4em;
     margin-bottom: 0;
 }
 .h6{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 0.8em;
     line-height: 1.0em;
     margin-bottom: 0;
 }
 .h6-r{
-    font-family:"PretendardR";
+    font-family:"Pretendard";
     font-size: 0.8em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh1 {
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 3.0em;
     line-height: 1.0;
     margin-bottom: 0;
 }
 .fh2{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 2.5em;
     margin-bottom: 0;
 }
 .fh3{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.5em;
     line-height: 1.2em;
     margin-bottom: 0;
 }
 .fh4{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh4-m{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh5{
-    font-family:"PretendardR";
+    font-family:"Pretendard";
     font-size: 0.9em;
     line-height: 1.4em;
     margin-bottom: 0;
 }
 .fh6{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 0.8em;
     line-height: 1.0em;
     margin-bottom: 0;
@@ -460,7 +460,7 @@
     color:white;
 }
 .wrapWide .new_links .h3 span{
-    font-family: "PretendardB";
+    font-family: "Pretendard";
 }
 .wrapWide .new_links .linkLeft .counsel{
     background-color:var(--black-color);
@@ -488,7 +488,7 @@
 .wrapWide .new_links .linkRight .greenBtn img {
     height:1.8em;
 }
-.contentWrap.ywFam .h1 span{font-family: 'PretendardB';}
+.contentWrap.ywFam .h1 span{font-family: 'Pretendard';}
 .contentWrap.ywFam .benefit{
     border-top:1px solid var(--grey-light-color);
     padding-bottom:150px;
@@ -595,7 +595,7 @@
 }
 .coramdeo .wrapWide .links a p{
     padding-left:15px;
-    font-family: 'PretendardSB';
+    font-family: 'Pretendard';
     font-size: 0.8em;
 }
 .greenBox .title{
@@ -732,7 +732,7 @@
     margin-right:10px;
     border-right:4px solid var(--color-point-pink);
     line-height:2.0em;
-    font-family: 'PretendardB';
+    font-family: 'Pretendard';
     font-size: 1.2em;
 }
 
@@ -767,7 +767,7 @@
     border-right:4px solid var(--color-point-pink);
     line-height:1.0em;
     display:inline-block;
-    font-family: 'PretendardB';
+    font-family: 'Pretendard';
 }
 .imNew .worship .msgBtn{
     display: flex;
@@ -883,7 +883,7 @@
     padding:15px;
 }
 .church .pastorProfile .img .btn p{
-    font-family: "PretendardSB";
+    font-family: "Pretendard";
     font-size:18px;
     color:white;
     text-align: right;
@@ -974,7 +974,7 @@
     width:175px;
 }
 .church .historyWrap .history .year p.h4{
-    font-family:'PretendardXB';
+    font-family:'Pretendard';
     padding-left:10px;
 }
 .church .historyWrap .history .year p.h6{
@@ -1128,7 +1128,7 @@
 .servant .wrap_card .card p.name{
     padding:5px 0;
     font-size:0.85em;
-    font-family: "PretendardM";
+    font-family: "Pretendard";
 }
 .servant .wrap_card .card.big p.name{
     font-size:1.0em;
@@ -1250,7 +1250,7 @@
     flex-grow: 1;
     background-color: #63D172;
     padding:1.5em 2.0em;
-    font-family: "PretendardSB";
+    font-family: "Pretendard";
     color:white;
     display:flex;
     align-items: center;
@@ -1269,7 +1269,7 @@
     margin: 50px 0 30px 0;
 }
 .facilities .buildings button{
-    font-family: "PretendardM";
+    font-family: "Pretendard";
     font-size:20px;
     width: 120px;
     height: 50px;
@@ -1479,7 +1479,7 @@ html {
     width:33%;
     padding:15px 10px;
     background-color: #d9d9d9;
-    font-family: "PretendardSB";
+    font-family: "Pretendard";
     font-size: 1.0em;
     line-height: 1.2em;
     display:flex;
@@ -1488,7 +1488,7 @@ html {
     flex-wrap: wrap;
 }
 .sub_navi a span{
-    font-family: "PretendardSB";
+    font-family: "Pretendard";
 }
 .sub_navi a.on{
     background-color: #63D172;
@@ -1664,7 +1664,7 @@ html {
     background-color: var(--color-point-green);
     color:white;
     font-weight: normal;
-    font-family: "PretendardSB";
+    font-family: "Pretendard";
     text-align: center;
 }
 .edu_inst .fRow{
@@ -1888,7 +1888,7 @@ img.writing.gls {
     margin:0 0 20px 0;
 }
 .ministry .flow .square .h5{
-    font-family: "PretendardSB";
+    font-family: "Pretendard";
 }
 .ministry .flow img{
     padding: 0 1.0em;
@@ -1944,7 +1944,7 @@ img.writing.gls {
     flex-wrap: wrap;
 }
 .ministry .pinkBox .h5, .ministry .pinkBox .h5 span{    
-    font-family:"PretendardSB";
+    font-family:"Pretendard";
 }
 .ministry ul.number li{
     font-size: 0.85em;
@@ -1960,7 +1960,7 @@ img.writing.gls {
     border-radius:25px;
 }
 .ministry .sb{
-    font-family:"PretendardSB";
+    font-family:"Pretendard";
 }
 .ministry .img img{
     width:100%;

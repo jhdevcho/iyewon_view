@@ -23,93 +23,93 @@
 
 /* em단위 폰트 지정 */
 .h1 {
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 3.0em;
     margin-bottom: 0;
 }
 .h2{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 2.5em;
     margin-bottom: 0;
 }
 .h2-1{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 2.2em;
     margin-bottom: 0;
 }
 .h3{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.5em;
     line-height: 1.8em;
     margin-bottom: 0;
 }
 .h4{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .h4-m{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .h5{
-    font-family:"PretendardR";
+    font-family:"Pretendard";
     font-size: 0.85em;
     line-height: 1.4em;
     margin-bottom: 0;
 }
 .h6{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 0.7em;
     line-height: 1.0em;
     margin-bottom: 0;
 }
 .h6-r{
-    font-family:"PretendardR";
+    font-family:"Pretendard";
     font-size: 0.7em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh1 {
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 3.0em;
     line-height: 0.9em;
     margin-bottom: 0;
 }
 .fh2{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 2.5em;
     margin-bottom: 0;
 }
 .fh3{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.5em;
     line-height: 1.2em;
     margin-bottom: 0;
 }
 .fh4{
-    font-family:"PretendardB";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh4-m{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh5{
-    font-family:"PretendardR";
+    font-family:"Pretendard";
     font-size: 0.8em;
     line-height: 1.4em;
     margin-bottom: 0;
 }
 .fh6{
-    font-family:"PretendardM";
+    font-family:"Pretendard";
     font-size: 0.7em;
     line-height: 1.0em;
     margin-bottom: 0;

@@ -120,7 +120,7 @@
 }
 .viewArea .metadata p.title span.text{
     padding-right: 10px;
-    font-family:"PretendardSB"
+    font-family:"Pretendard"
 }
 .viewArea .metadata p.title span.words{
     font-family: var(--fontfam-regular);

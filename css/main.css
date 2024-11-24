@@ -55,7 +55,7 @@
     height:59px;
     background-color:var(--color-point-green);
     color:white;
-    font-family:"PretendardSB";
+    font-family:"Pretendard";
     font-size:18px;
     border-radius:30px;
     margin-top:10px;
@@ -99,36 +99,36 @@
     font-size: 2.8em;
     line-height: 1.2;
     color: #2d2d2d;
-    font-family: 'PretendardXB';
+    font-family: 'Pretendard';
 }
 .mainWrap .h1{
     font-size: 2.6em;
     line-height: 1.5;
     color: #2d2d2d;
-    font-family: 'PretendardXB';
+    font-family: 'Pretendard';
 }
 .mainWrap .h2{
     display: block;
     font-size: 1.8em;
     line-height: 1.2;
     color: #2d2d2d;
-    font-family: 'PretendardB';
+    font-family: 'Pretendard';
 }
 .mainWrap .h3{
     font-size: 1em;
     line-height: 1.2;
     color: #2d2d2d;
-    font-family: 'PretendardSB';
+    font-family: 'Pretendard';
 }
 .mainWrap .h4{
     font-size: 0.8em;
     line-height: 1.2;
     color: #2d2d2d;
-    font-family: 'PretendardM';
+    font-family: 'Pretendard';
     font-weight: normal;
 }
 .mainWrap span.thin{
-    font-family: 'PretendardR';
+    font-family: 'Pretendard';
 }
 .mainWrap .h1,.mainWrap .h2,.mainWrap .h3,.mainWrap .h4,.mainWrap {
     margin-bottom:0;    /* 실서버 속성에 영향받아서 추가 */
@@ -151,7 +151,7 @@
     border-radius: 30px;
     padding: 17px 55px;
     /* margin: 0 10px; */
-    font-family: 'PretendardSB';
+    font-family: 'Pretendard';
     font-size: 0.8em;
     transform: translate(0,120%);
     transition: transform 0.5s ease-in-out;

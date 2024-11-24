@@ -38,10 +38,10 @@
     --font-mobile-text: 15px;
 
     /* Font family */
-    --fontfam-regular: 'PretendardR';
-    --fontfam-title: 'PretendardSB';
-    --fontfam-m-title: 'PretendardB';
-    --fontfam-m-text: 'PretendardM';
+    --fontfam-regular: 'Pretendard';
+    --fontfam-title: 'Pretendard';
+    --fontfam-m-title: 'Pretendard';
+    --fontfam-m-text: 'Pretendard';
     --fontfam-yewon: 'YEWON';
 }
 
@@ -49,10 +49,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;    
-    font-family: 'PretendardR', sans-serif;
+    font-family: 'Pretendard', sans-serif;
 }
 body {
-    font-family: 'PretendardR', sans-serif;
+    font-family: 'Pretendard', sans-serif;
     color: var(--black-color);
     min-width: 320px;
     min-height: 550px;
@@ -605,7 +605,7 @@ header .hCenter .menu .submenu ul li,header .hCenter .menu .submenu ul li a {
     padding-bottom: 7px;
     font-size: 14px;
     text-align: left;
-    font-family:"PretendardM";
+    font-family:"Pretendard";
 }
 header .hCenter .menu .submenu ul li a:hover{
     text-decoration: underline;
