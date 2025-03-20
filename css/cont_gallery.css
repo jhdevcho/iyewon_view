@@ -34,6 +34,7 @@
     width: 100%;
     display: inline-block;
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     font-size: 24px;
     line-height: 22px;
     white-space: nowrap;
@@ -121,6 +122,7 @@
 }
 .viewArea.gallery .contLinks span.info{
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     padding-left: 5px;
     width: 50px;
     flex-shrink: 0;
@@ -152,11 +154,13 @@
     padding-right: 15px;
     font-size: 15px;
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
 }
 .viewArea.gallery .otherLinks .list a{
     padding: 10px 50px;
     border: 1px solid var(--grey-dark-color);
     border-radius: 30px;
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     font-size: 15px;
 }

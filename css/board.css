@@ -188,6 +188,7 @@ input::-webkit-search-results-decoration{
 .paging .listBtn button{
     display: inline-block;
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     border: 1px solid var(--grey-light-color);
     font-size: 14px;
     padding: 8px 15px;

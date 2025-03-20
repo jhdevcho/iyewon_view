@@ -24,92 +24,108 @@
 /* em단위 폰트 지정 */
 .h1 {
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 3.0em;
     margin-bottom: 0;
 }
 .h2{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 2.5em;
     margin-bottom: 0;
 }
 .h2-1{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 2.2em;
     margin-bottom: 0;
 }
 .h3{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 1.5em;
     line-height: 2.0em;
     margin-bottom: 0;
 }
 .h4{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .h4-m{
     font-family:"Pretendard";
+    font-weight: 500;
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .h5{
     font-family:"Pretendard";
+    font-weight: 400;
     font-size: 0.9em;
     line-height: 1.4em;
     margin-bottom: 0;
 }
 .h6{
     font-family:"Pretendard";
+    font-weight: 500;
     font-size: 0.8em;
     line-height: 1.0em;
     margin-bottom: 0;
 }
 .h6-r{
     font-family:"Pretendard";
+    font-weight: 400;
     font-size: 0.8em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh1 {
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 3.0em;
     line-height: 1.0;
     margin-bottom: 0;
 }
 .fh2{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 2.5em;
     margin-bottom: 0;
 }
 .fh3{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 1.5em;
     line-height: 1.2em;
     margin-bottom: 0;
 }
 .fh4{
     font-family:"Pretendard";
+    font-weight: 600;
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh4-m{
     font-family:"Pretendard";
+    font-weight: 500;
     font-size: 1.0em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
 .fh5{
     font-family:"Pretendard";
+    font-weight: 400;
     font-size: 0.9em;
     line-height: 1.4em;
     margin-bottom: 0;
 }
 .fh6{
     font-family:"Pretendard";
+    font-weight: 500;
     font-size: 0.8em;
     line-height: 1.0em;
     margin-bottom: 0;
@@ -1945,6 +1961,7 @@ img.writing.gls {
 }
 .ministry .pinkBox .h5, .ministry .pinkBox .h5 span{    
     font-family:"Pretendard";
+    font-weight: 600;
 }
 .ministry ul.number li{
     font-size: 0.85em;
@@ -1961,6 +1978,7 @@ img.writing.gls {
 }
 .ministry .sb{
     font-family:"Pretendard";
+    font-weight: 600;
 }
 .ministry .img img{
     width:100%;

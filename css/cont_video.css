@@ -39,6 +39,7 @@
 .listArea .list .cont p.title span.txt{
     display: inline-block;
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     font-size: var(--font-xlarge);
     line-height: 22px;
     padding-right: 10px;
@@ -301,6 +302,7 @@
 }
 .listWrap.viewer .list.on .cont p.date{
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
 }
 .listWrap.viewer .list .cont .title{
     flex-shrink: 1;
@@ -361,6 +363,7 @@
 .listBtn a{
     display: inline-block;
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     border: 1px solid var(--grey-light-color);
     font-size: 14px;
     padding: 5px 15px;

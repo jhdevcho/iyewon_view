@@ -36,12 +36,16 @@
     --font-mobile-form: 18px;
     --font-mobile-small: 13px;
     --font-mobile-text: 15px;
-
+    
     /* Font family */
-    --fontfam-regular: 'Pretendard';
-    --fontfam-title: 'Pretendard';
-    --fontfam-m-title: 'Pretendard';
-    --fontfam-m-text: 'Pretendard';
+    --fontfam-regular: 'Pretendard'; /*R*/
+    --fontweight-regular: 400;
+    --fontfam-title: 'Pretendard';/*SB*/
+    --fontweight-title: 600;
+    --fontfam-m-title: 'Pretendard';/*B*/
+    --fontweight-m-title: 700;
+    --fontfam-m-text: 'Pretendard';/*M*/
+    --fontweight-m-text: 500;
     --fontfam-yewon: 'YEWON';
 }
 
@@ -50,9 +54,11 @@
     padding: 0;
     box-sizing: border-box;    
     font-family: 'Pretendard', sans-serif;
+    font-weight: 400;
 }
 body {
     font-family: 'Pretendard', sans-serif;
+    font-weight: 400;
     color: var(--black-color);
     min-width: 320px;
     min-height: 550px;
@@ -336,6 +342,7 @@ a, a:focus{
 }
 .menuLayer .mLinkBtns span{
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
 }
 .menuLayer .mLinkBtns .forFam {
     display:flex;
@@ -395,6 +402,7 @@ a, a:focus{
 .menuLayer .mCategory .title span{
     font-size: var(--font-xxlarge);
     font-family: var(--fontfam-m-title);
+    font-weight: var(--fontweight-m-title);
     font-weight: bold;
     margin:10px 0;
 }
@@ -560,6 +568,7 @@ header .hCenter .menu{
 }
 header .hCenter .menu>span {
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     font-size: 15px;
     color: var(--black-color);
     padding: 0 20px;
@@ -606,6 +615,7 @@ header .hCenter .menu .submenu ul li,header .hCenter .menu .submenu ul li a {
     font-size: 14px;
     text-align: left;
     font-family:"Pretendard";
+    font-weight: 500;
 }
 header .hCenter .menu .submenu ul li a:hover{
     text-decoration: underline;
@@ -688,6 +698,7 @@ header.sub .menu .submenu {
 .nav_2nd span{
     font-size: 32px;
     font-family: var(--fontfam-m-title);
+    font-weight: var(--fontweight-m-title);
     margin-left: 15px;
 }
 .nav_3rd{
@@ -715,6 +726,7 @@ header.sub .menu .submenu {
 }
 .nav_3rd ul li a{    
     font-family: var(--fontfam-title);
+    font-weight: var(--fontweight-title);
     font-size: 18px;
     color: #c9c9c9;
 }
@@ -723,6 +735,7 @@ header.sub .menu .submenu {
 }
 .nav_3rd ul li.on a{
     font-family: var(--fontfam-m-title);
+    font-weight: var(--fontweight-m-title);
     font-size: 18px;
     color: var(--black-color);
 }

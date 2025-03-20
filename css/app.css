@@ -28,6 +28,7 @@ header.app{
     left:20px;
     top:30px;
     font-family: "Pretendard";
+    font-weight: '500';
     font-size:14px;
 }
 .appWrap .worship{
@@ -46,10 +47,12 @@ header.app{
 }
 .appWrap .worship p{
     font-family: "Pretendard";
+    font-weight: '500';
     font-size:14px;
 }
 .appWrap .worship p:nth-of-type(2){
     font-family: "Pretendard";
+    font-weight: '600';
     font-size:22px;
     padding:8px 0;
 }
