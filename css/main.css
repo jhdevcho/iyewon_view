@@ -309,7 +309,7 @@
 .scene01 .scene01Bg .bgImg.step01{
     width: 48vh;
     height: 45vh;
-    background-image:url('../images/bg_main_01_s.jpg');
+    background-image:url('../images/bg_main_02.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -320,7 +320,7 @@
 .scene01 .scene01Bg .bgImg.step02{
     width: 100%;
     height: 100vh;
-    background-image:url('../images/bg_main_01.jpg');
+    background-image:url('../images/bg_main_02.jpg');
     background-size: cover;
     background-position:center center;
     background-repeat: no-repeat;
