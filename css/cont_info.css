@@ -551,6 +551,9 @@
 
 /* ///////// 청년선교회 페이지 ///////////////// */
 
+.coramdeo .title {
+    word-break: keep-all;
+}
 .coramdeo img.writing{
     width: 50%;
     max-width: 209px;

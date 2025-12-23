@@ -95,6 +95,27 @@
     bottom:20px;
     right:20px;
 }
+.mainWrap .floatBtn .counsel div{
+    width:200px;
+    height:59px;
+    background-color:var(--color-point-green);
+    color:white;
+    font-family:"Pretendard";
+    font-weight: 400;
+    font-size:18px;
+    border-radius:30px;
+    margin-top:10px;
+    padding-top: 8px;
+    text-align:center;
+    line-height: 22px;
+}
+.mainWrap .floatBtn .counsel .mobile{
+    display:none;
+    width: 59px;
+    line-height: 20px;
+    font-size: 16px;
+    padding-top: 10px;
+}
 
 .mainWrap .h0{
     font-size: 2.8em;
@@ -117,6 +138,14 @@
     color: #2d2d2d;
     font-family: 'Pretendard';
     font-weight: 600;
+}
+.mainWrap .h2-L{
+    display: block;
+    font-size: 1.4em;
+    line-height: 1.2;
+    color: #2d2d2d;
+    font-family: 'Pretendard';
+    font-weight: 500;
 }
 .mainWrap .h3{
     font-size: 1em;
@@ -210,6 +239,9 @@
     /* height: 1.2em; */
     margin: 0 auto;
     transform: translate(0,100%);
+}
+.scene01 .step1 p.h2-L{
+    margin-top: 15px;
 }
 /* .scene01 .step1 .h1{
     animation: text-up 0.7s ease-in-out 0.2s forwards;

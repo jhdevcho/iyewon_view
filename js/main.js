@@ -136,7 +136,9 @@ function ani_text(op1, op2, op3, aniName, duration, delay){
 window.scrollTo({left:0,top:0,behavior:'smooth'});
 ani_text('scene01','step1','h1','text-up','1.0s','0.2s');
 ani_text('scene01','step1','h2','text-up','0.7s','0.2s');
-ani_text('scene01','step1','h3','text-up','0.7s','0.5s');
+ani_text('scene01','step1','h2-L','text-up','0.7s','0.5s');
+ani_text('scene01','step1','h3','text-up','0.7s','0.2s');
+ani_text('scene01','step1','h4','text-up','0.7s','0.5s');
 writing();
 
 function cardBtn_init(){
@@ -414,7 +416,9 @@ window.addEventListener('scroll', () => {
         setTimeout(function(){
             ani_text('scene01','step1','h1','text-up','1.0s','0.2s');
             ani_text('scene01','step1','h2','text-up','0.7s','0.2s');
+            ani_text('scene01','step1','h2-L','text-up','0.7s','0.2s');
             ani_text('scene01','step1','h3','text-up','0.7s','0.5s');
+            ani_text('scene01','step1','h4','text-up','0.7s','0.5s');
             writing();
         },200);
     }

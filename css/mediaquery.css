@@ -355,6 +355,12 @@
     .mainWrap .floatBtn .counsel img{
         content: url("/images/icon_counsel_small.svg");
     }
+    .mainWrap .floatBtn .counsel .pc{
+        display:none;
+    }
+    .mainWrap .floatBtn .counsel .mobile{
+        display:block;
+    }
 
     /* 정보성 페이지 공통 */
 
