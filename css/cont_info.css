@@ -554,6 +554,9 @@
 .coramdeo .title {
     word-break: keep-all;
 }
+.coramdeo .title .txt_green {
+    color: var(--color-point-green);
+}
 .coramdeo img.writing{
     width: 50%;
     max-width: 209px;
